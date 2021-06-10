@@ -2,7 +2,6 @@
  simples projeto, porém eficiente... Baixa qualquer vídeo do YouTube e o os organiza, usando apenas o link do mesmo 
  
 ## O que verá neste projetinho?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SbzAe78vTdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [x] Python 🐍 (é claro)
 - [x] Dentro dele as bibliotecas mais "interessantes": 
 * Pytube (Para fazer o download)
@@ -18,3 +17,4 @@ O funcionamentod dele é bem básico. Veja a seguir:
 5. O vídeo será baixado dentro dessa pasta (será pssível alterar de forma fácil no código) 
 
 ### Bom... é isso
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SbzAe78vTdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
