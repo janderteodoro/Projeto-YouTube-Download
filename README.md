@@ -9,7 +9,7 @@
 - [x] Ah, tem um pouco de CSS para poder dar estilho para a janelinha.
 
 ## Funcionamento 
-O funcionamentod dele é bem básico. Veja a seguir:
+O funcionamento dele é bem básico. Veja a seguir:
 1. Põe ele para rodar 
 2. Ele criará uma jenelinha com 2 botões: copiar, baixar
 3. Após ter colocado o link do vídeo que deseja baixar na transferência, clique em colar 
